@@ -1,0 +1,10 @@
+{
+  "name": "st-full-export",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "SillyTavern 全量导出扩展：全部对话导出为单文件，全部角色卡导出为 ZIP",
+  "scripts": {
+    "test": "node --test \"tests/*.test.js\""
+  }
+}

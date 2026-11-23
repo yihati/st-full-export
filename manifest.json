@@ -1,0 +1,12 @@
+{
+  "display_name": "全量导出",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "dependencies": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "st-full-export",
+  "version": "1.0.0",
+  "auto_update": false
+}
